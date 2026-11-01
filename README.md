@@ -8,7 +8,11 @@ An unofficial, interactive visual tribute to BTS and **“We Are Bulletproof: Th
 Move through the memories, gather the light, and leave your own mark in the stars.
 
 <p>
-  <img src="screenshots/01-awakening.png" alt="Seven silhouettes beneath a violet sky in the PURPLEVERSE Awakening chapter" width="820" />
+  <a href="https://purpleverse-orpin.vercel.app/"><strong>✦ &nbsp; ENTER PURPLEVERSE &nbsp; ↗</strong></a>
+</p>
+
+<p>
+  <img src="screenshots/05-the-eternal.png" alt="Seven silhouettes gathered in the expansive violet particle finale" width="820" />
 </p>
 
 <p>
@@ -39,9 +43,9 @@ PURPLEVERSE is a full-screen, five-chapter journey shaped around the feeling of 
 
 <div align="center">
 
-| The Journey | Deep Sea | The Eternal |
+| The Journey | Deep Sea | The Seven |
 |:---:|:---:|:---:|
-| <img src="screenshots/02-running.png" alt="The Journey chapter" width="260" /> | <img src="screenshots/03-deep-sea.png" alt="Deep Sea chapter" width="260" /> | <img src="screenshots/05-the-eternal.png" alt="The Eternal chapter" width="260" /> |
+| <img src="screenshots/02-running.png" alt="The Journey chapter" width="260" /> | <img src="screenshots/03-deep-sea.png" alt="Deep Sea chapter" width="260" /> | <img src="screenshots/04-the-seven.png" alt="The Seven chapter" width="260" /> |
 
 </div>
 
