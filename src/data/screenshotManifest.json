@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "description": "Original user-supplied PURPLEVERSE storyboard frames. Preserve order, pixel content, and aspect ratio.",
+  "groups": ["Awakening", "The Journey", "Deep Sea", "The Seven", "The Eternal"],
+  "transitions": [
+    "purple-stardust-dissolve",
+    "galaxy-spiral",
+    "particle-explosion",
+    "light-wave-reveal",
+    "converging-star-formation",
+    "floating-sparkle",
+    "cosmic-flash"
+  ],
+  "sequence": [
+    {"sequence":1,"file":"/assets/screenshots/scene-001.png","width":930,"height":424,"group":"Awakening","groupIndex":0,"title":"The illuminated passage","transitionIntoNext":"purple-stardust-dissolve","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":2,"file":"/assets/screenshots/scene-002.png","width":702,"height":433,"group":"Awakening","groupIndex":0,"title":"The meeting","transitionIntoNext":"galaxy-spiral","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":3,"file":"/assets/screenshots/scene-003.png","width":845,"height":433,"group":"The Journey","groupIndex":1,"title":"The street","transitionIntoNext":"particle-explosion","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":4,"file":"/assets/screenshots/scene-004.png","width":877,"height":456,"group":"The Journey","groupIndex":1,"title":"Across the checkerboard","transitionIntoNext":"light-wave-reveal","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":5,"file":"/assets/screenshots/scene-005.png","width":901,"height":466,"group":"The Journey","groupIndex":1,"title":"The quiet room","transitionIntoNext":"converging-star-formation","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":6,"file":"/assets/screenshots/scene-006.png","width":842,"height":417,"group":"The Journey","groupIndex":1,"title":"The corridor","transitionIntoNext":"floating-sparkle","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":7,"file":"/assets/screenshots/scene-007.png","width":907,"height":407,"group":"The Journey","groupIndex":1,"title":"The broken reflection","transitionIntoNext":"cosmic-flash","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":8,"file":"/assets/screenshots/scene-008.png","width":802,"height":394,"group":"The Journey","groupIndex":1,"title":"The fall","transitionIntoNext":"purple-stardust-dissolve","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":9,"file":"/assets/screenshots/scene-009.png","width":886,"height":433,"group":"The Journey","groupIndex":1,"title":"Red in the dark","transitionIntoNext":"galaxy-spiral","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":10,"file":"/assets/screenshots/scene-010.png","width":722,"height":407,"group":"The Journey","groupIndex":1,"title":"The portrait","transitionIntoNext":"particle-explosion","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":11,"file":"/assets/screenshots/scene-011.png","width":846,"height":435,"group":"Deep Sea","groupIndex":2,"title":"Below the surface","transitionIntoNext":"light-wave-reveal","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":12,"file":"/assets/screenshots/scene-012.png","width":881,"height":442,"group":"Deep Sea","groupIndex":2,"title":"Reaching upward","transitionIntoNext":"converging-star-formation","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":13,"file":"/assets/screenshots/scene-013.png","width":890,"height":447,"group":"The Seven","groupIndex":3,"title":"Petals in the light","transitionIntoNext":"floating-sparkle","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":14,"file":"/assets/screenshots/scene-014.png","width":879,"height":447,"group":"The Seven","groupIndex":3,"title":"Beyond the fence","transitionIntoNext":"cosmic-flash","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":15,"file":"/assets/screenshots/scene-015.png","width":871,"height":434,"group":"The Seven","groupIndex":3,"title":"The painted wall","transitionIntoNext":"purple-stardust-dissolve","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":16,"file":"/assets/screenshots/scene-016.png","width":851,"height":293,"group":"The Seven","groupIndex":3,"title":"Running together","transitionIntoNext":"galaxy-spiral","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":17,"file":"/assets/screenshots/scene-017.png","width":827,"height":422,"group":"The Seven","groupIndex":3,"title":"Around the fire","transitionIntoNext":"particle-explosion","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":18,"file":"/assets/screenshots/scene-018.png","width":734,"height":390,"group":"The Eternal","groupIndex":4,"title":"The visitor","transitionIntoNext":"light-wave-reveal","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":19,"file":"/assets/screenshots/scene-019.png","width":862,"height":453,"group":"The Eternal","groupIndex":4,"title":"A signal among stars","transitionIntoNext":"converging-star-formation","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":20,"file":"/assets/screenshots/scene-020.png","width":911,"height":455,"group":"The Eternal","groupIndex":4,"title":"The reunion stage","transitionIntoNext":"floating-sparkle","animation":{"fit":"contain","animateSourcePixels":false}},
+    {"sequence":21,"file":"/assets/screenshots/scene-021.png","width":911,"height":455,"group":"The Eternal","groupIndex":4,"title":"The reunion stage — held frame","transitionIntoNext":null,"animation":{"fit":"contain","animateSourcePixels":false}}
+  ]
+}

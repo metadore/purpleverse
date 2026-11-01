@@ -1,0 +1,50 @@
+node_modules/
+dist/
+outputs/
+work/
+# Environment and local auth/config files
+.env
+.env.*
+!.env.example
+.npmrc
+!.npmrc.example
+.netrc
+.pypirc
+.git-credentials
+credentials/
+secrets/
+.aws/
+.ssh/
+.config/gcloud/
+.firebase/
+.vercel/
+.wrangler/
+
+# Cloud and application credentials
+**/credentials.json
+**/credential.json
+**/token.json
+**/*credentials*.json
+**/*service-account*.json
+**/*serviceaccount*.json
+**/*secret*.json
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Private keys, signing material, and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.mobileprovision
+id_rsa*
+id_ed25519*
+
+# Local tool state and logs
+.docker/config.json
+firebase-debug.log
+firebase-debug.*.log*
+.DS_Store
+Thumbs.db
